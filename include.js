@@ -1878,6 +1878,14 @@ let cards = [
     author: 'Melinda',
     githubLink: 'https://github.com/Mel-TB'
   }
+  {
+    artName: 'glowing_circle_animation', // change this to the name of your artwork
+    pageLink: './Art/<amandeep-singh-parihar>/glowing_circle_animation.html', // change this
+    imageLink: './Art/<amandeep-singh-parihar>/glowing_circle_animation.gif', // change this
+    author: 'amandeepsinghparihar', // use your name
+    githubLink: 'https://github.com/<amandeep-singh-parihar>' // change this
+  }
+  
 ];
 
 // +--------------------------------------------------------------------------------+
