@@ -1877,14 +1877,23 @@ let cards = [
     imageLink: './Art/Mel-TB/ezio_animation.gif',
     author: 'Melinda',
     githubLink: 'https://github.com/Mel-TB'
-  }
+  },
   {
     artName: 'loader',
     pageLink: './Art/<amandeep-singh-parihar>/loader.html',
     imageLink: './Art/<amandeep-singh-parihar>/loader.gif',
     author: 'amandeepsinghparihar',
     githubLink: 'https://github.com/<amandeep-singh-parihar>'
-  }
+  },
+   
+    {
+      artName: 'card',
+      pageLink: './Art/<Aayushchauhan05>/card.html', 
+      imageLink: './Art/<Aayushchauhan05>/card.gif', 
+      author: 'Aayush chauhan', 
+      githubLink: 'https://github.com/<Aayushchauhan05>' 
+    }
+
   
 ];
 
